@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Delco Person content type feature.
+ */
+
+include_once 'delco_person_content_type.features.inc';
