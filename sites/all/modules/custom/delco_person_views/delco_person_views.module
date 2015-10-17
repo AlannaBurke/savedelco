@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Delco Person Views feature.
+ */
+
+include_once 'delco_person_views.features.inc';
