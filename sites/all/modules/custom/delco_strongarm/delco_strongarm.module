@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Delco Strongarm feature.
+ */
+
+include_once 'delco_strongarm.features.inc';
